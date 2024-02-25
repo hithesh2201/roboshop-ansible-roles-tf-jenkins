@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-prod.hiteshshop.online  # submit your host
+REDIS_HOST: redis-prod.hiteshshop.online 
+MYSQL_HOST: mysql-prod.hiteshshop.online 
+RABBITMQ_HOST: rabbitmq-prod.hiteshshop.online 
+CATALOGUE_HOST: catalogue.app-prod.hiteshshop.online 
+USER_HOST: user.app-prod.hiteshshop.online 
+CART_HOST: cart.app-prod.hiteshshop.online 
+SHIPPING_HOST: shipping.app-prod.hiteshshop.online 
+PAYMENT_HOST: payment.app-prod.hiteshshop.online 
+DISPATCH_HOST: dispatch.app-prod.hiteshshop.online 
